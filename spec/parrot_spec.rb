@@ -24,6 +24,6 @@
 #   end
 # end
 
-def parrot(string)
-puts#{string}
-end
+# def parrot(string)
+# puts#{string}
+# end
